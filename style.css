@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: #2d3e50;
+}
+
+.nav-link:hover{
+    color: #1bbc9b !important;
+}
+
+section{
+    background-color: #1bbc9b;
+}
+
+main.main{
+    background-color: #2d3e50;
+    color: white;
+}
+
+a.link{
+    color: #1bbc9b !important;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    background-color: #1b252f;
+}
